@@ -1,0 +1,27 @@
+name: Community idea
+description: Suggest a safe feature, extension, UI design, or documentation improvement
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Topic
+      options:
+        - Plugin example or integration
+        - Documentation or tutorial
+        - UI / accessibility
+        - Testing / development tooling
+        - Community website
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What should change, and how would we test it?
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "Do not include secrets, private screen captures, personal data, or private-engine source."
