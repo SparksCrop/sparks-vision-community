@@ -8,6 +8,7 @@
 - [Review the community roadmap](docs/ROADMAP.md)
 - [See public versus commercial scope](docs/FEATURE_BOUNDARIES.md)
 - [Read contribution instructions](CONTRIBUTING.md)
+- [Team development and testing workflow](docs/TEAM_DEVELOPMENT_GUIDE.md)
 - [Read security reporting guidelines](SECURITY.md)
 
 ## Good first contributions
